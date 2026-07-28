@@ -1,2 +1,6 @@
 streamlit
 pandas
+joblib
+pydeck
+numpy
+scikit-learn
