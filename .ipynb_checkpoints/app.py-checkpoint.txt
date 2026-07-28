@@ -1,0 +1,5 @@
+import streamlit as st
+
+st.title("AI National Supply Chain Risk Intelligence Platform")
+
+st.write("Supply Chain Risk Dashboard is Running Successfully 🚀")
